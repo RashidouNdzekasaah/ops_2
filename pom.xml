@@ -25,14 +25,14 @@
   <distributionManagement>
             <repository>
               <id>nexus</id>
-              <name>Insight Tech Releases Nexus Repository</name>
+              <name>http://18.212.192.27:8081/repository/mavenapps16-release/</name>
               <url></url>
             </repository>
 
             <snapshotRepository>
               <id>nexus</id>
               <name>Insight Tech Snapshot Nexus Repository </name>
-              <url>http://18.212.192.27:8081/repository/chase-snapshot/ranis-snapshot/</url>
+              <url>http://18.212.192.27:8081/repository/mavenapps16/</url>
             </snapshotRepository>
    </distributionManagement>
   
